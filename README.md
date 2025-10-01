@@ -1,30 +1,25 @@
 ## Hi there 👋, my name is @lava_frai
 ### I am just a developer
 
-[![discord](https://discord.c99.nl/widget/theme-1/677933625802489889.png)](https://discord.com/users/677933625802489889/)
+And here are my skills:
 
-Skills: Python / Kotlin / Java / WPS settingup / Domain registration / Arduino (C++)
+### **Languages I use:**
+[![My Skills](https://skillicons.dev/icons?i=kotlin,rust)](https://lavafrai.ru/)
 
-[![My Skills](https://skillicons.dev/icons?i=py,kotlin,java,bash,cloudflare,cpp)](https://lavafrai.ru/)
+### **Languages I know:**
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,typescript,swift,bash)](https://lavafrai.ru/)
 
-- 🔭 I’m currently working on **MAI 3 application**.  
-- 📫 How to contact me? 
+But more about my skills and experience you can find in my [CV](https://github.com/lavafrai/lavaFrai/blob/main/media/cv-vladimir-kurdiukov-01-10-2025.pdf?raw=true) (updated on 01.10.2025).
+
+- 🔭 I’m currently working on **MAI Schedule app**.  
+- 📫 You can contact me with any of these ways:
+  - telegram: [@lava_frai](https://t.me/lava_frai)
   - discord: [lava_frai#0498](https://discord.com/users/677933625802489889/) 
   - e-mail: [lavafrai@yandex.ru](mailto:lavafrai@yandex.ru)
-- 💻 My web site: https://lavafrai.ru/
+- 💬 Ask me about anything, I am happy to help.
+- 💻 My website: https://lavafrai.ru/
 
-<!---
-My github statistic:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lavafrai&theme=tokyonight&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lavafrai&theme=tokyonight&show_icons=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lavafrai&theme=tokyonight&show_icons=true)  
---->
-<!---
-My language statistic on GitHub (Not all my projects are uploaded here):
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lavafrai)
---->
-<!---
-![github contribution grid snake animation](https://raw.githubusercontent.com/ArtemBay/Artembay/main/output/github-contribution-grid-snake.svg)
---->
+### And below you can see my projects, I want to share with you:
