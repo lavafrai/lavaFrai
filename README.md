@@ -9,7 +9,7 @@ And here are my skills:
 ### **Languages I know:**
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,typescript,swift,bash)](https://lavafrai.ru/)
 
-But more about my skills and experience you can find in my [CV](https://github.com/lavafrai/lavaFrai/blob/main/media/cv-vladimir-kurdiukov-06-11-2025.pdf?raw=true) (updated on 01.10.2025).
+But more about my skills and experience you can find in my [CV](https://github.com/lavafrai/lavaFrai/blob/main/media/cv-vladimir-kurdiukov-06-11-2025.pdf?raw=true) (updated on 06.11.2025).
 
 - 🔭 I’m currently working on **MAI Schedule app**.  
 - 📫 You can contact me with any of these ways:
